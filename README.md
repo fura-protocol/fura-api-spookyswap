@@ -1,6 +1,6 @@
 # SpookySwap History
 
-Check it out live: [https://fura.org/staging/spookyswap](https://fura.org/staging/spookyswap)
+Check it out live: [https://staging.fura.org/spookyswap](https://staging.fura.org/spookyswap)
 
 
 ### Fura - SpookySwap GraphQL Endpoint
